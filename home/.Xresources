@@ -1,0 +1,19 @@
+! font config, for improved rendering
+Xft.autohint: 0
+Xft.antialias: 1
+Xft.hinting: true
+Xft.hintstyle: hintslight
+Xft.dpi: 96
+Xft.rgba: rgb
+Xft.lcdfilter: lcddefault
+
+! ------------------------------------------------------------------------------
+! Dmenu configs
+! ------------------------------------------------------------------------------
+
+! does nothing?
+
+!dmenu.selforeground:	    #d8dee9
+!dmenu.background:	        #2e3440
+!dmenu.selbackground:	    #bf616a
+!dmenu.foreground:	        #d8dee9
